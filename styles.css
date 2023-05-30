@@ -113,7 +113,7 @@ body {
 	border: none;
 	border-radius: 3px;
 	padding: 4px 6px 4px 6px;
-	background-color: #9ed0c5;
+	background-color: var(--a-rank);
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	font-weight: 700;
@@ -121,7 +121,7 @@ body {
 }
 #getlink-button:active {
 	/* these styles are active while get link is being pressed */
-	background-color: #ff2475;
+	background-color: var(--b-rank);
 }
 #getlink-textbox {
 	margin-left: 5px;
