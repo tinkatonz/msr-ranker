@@ -2,8 +2,8 @@
 @import url(//db.onlinewebfonts.com/c/f389091962d8dab9ec69c5060e2e023c?family=Press+Start+2P);
 @font-face {font-family: "Press Start 2P"; src: url("//db.onlinewebfonts.com/t/f389091962d8dab9ec69c5060e2e023c.eot"); src: url("//db.onlinewebfonts.com/t/f389091962d8dab9ec69c5060e2e023c.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/f389091962d8dab9ec69c5060e2e023c.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/f389091962d8dab9ec69c5060e2e023c.woff") format("woff"), url("//db.onlinewebfonts.com/t/f389091962d8dab9ec69c5060e2e023c.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/f389091962d8dab9ec69c5060e2e023c.svg#Press Start 2P") format("svg"); }
 :root {
-	--banner-bg-start: #E0FFAB;
-	--banner-bg-end: #FFC9E6;
+	--banner-bg-start: #e0ffab;
+	--banner-bg-end: #ffc9e6;
 	--produce-gray: #e4e4e4;
 	--search-text-gray: #949494;
 	--search-gray: #f2f2f2;
@@ -13,7 +13,7 @@
 	--ranking-affil-gray: #989898;
 	--save-box-gray: #b1b1b1;
 
-	--checked-blue: #fad0decc;
+	--checked-blue: #e0ffabcc;
 
 	/* ranking border colors */
 	--a-rank: #e0ffab;
